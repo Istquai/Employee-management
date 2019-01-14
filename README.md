@@ -1,7 +1,10 @@
 https://documenter.getpostman.com/view/1033783/RznFod8T
 
 **Utworzenie bazy danych**
-    ```bash
+    ```
+    bash
+    ```
+    ```
     CREATE DATABASE application; 
     ```   
 **Zarządzanie aplikacją**
